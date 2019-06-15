@@ -1,0 +1,28 @@
+body
+{
+	overflow-x: hidden;
+}
+
+.img_principal
+{
+	width: 100%;
+	height: 420px;
+	position: relative;
+	z-index: 0;
+}
+
+.div_principal
+{
+	color: white;
+	position: absolute;
+	z-index: 1;
+	background: #0000009c;
+	width: 100%;
+	height: 420px;	
+}
+
+.texto_principal
+{
+	text-shadow : -1px 1px 6px #ffffffde;
+	margin-top: 9%;
+}
